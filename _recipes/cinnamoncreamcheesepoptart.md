@@ -8,7 +8,6 @@ time: 2 hours
 author: ablazingeboy#7375
 veggie: ✓
 sweet: ✓
-favorite: ✓
 ---
 
 * `2 cups` all-purpose flour
