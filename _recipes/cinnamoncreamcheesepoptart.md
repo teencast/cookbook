@@ -10,12 +10,12 @@ veggie: ✓
 sweet: ✓
 ---
 
-* `2 cups` all-purpose flour
-* `1 tbsp` white sugar
-* `1 tsp` salt
-* `1 cup` chilled unsalted butter
-* `1/2 tsp` vanilla extract
-* `1/4 cup` cold water
+* `2 cups (500 mL)` all-purpose flour
+* `1 tbsp (15 mL)` white sugar
+* `1 tsp (5 mL)` salt
+* `1 cup (250 mL)` chilled unsalted butter
+* `1/2 tsp (3 mL)` vanilla extract
+* `1/4 cup (60 mL)` cold water
 
 > Sift flour, 1 tablespoon sugar, and salt together into a bowl. Cut chilled butter into small cubes, then cut into the flour mixture with a pastry blender or 2 knives until mixture resembles small peas. Add vanilla. Mix in cold water, 1 tablespoon at a time, until dough comes together and forms a ball.
 
@@ -25,11 +25,11 @@ sweet: ✓
 
 ---
 
-* `1/2 cup` cream cheese
-* `1/4 cup` unsalted butter
-* `1 cup` powdered sugar
-* `1 tsp` vanilla extract
-* `1 tbsp` ground cinnamon
+* `1/2 cup (125 mL)` cream cheese
+* `1/4 cup (60 mL)` unsalted butter
+* `1 cup (250 mL)` powdered sugar
+* `1 tsp (5 mL)` vanilla extract
+* `1 tbsp (15 mL)` ground cinnamon
 
 > Cream softened cream cheese with butter using an electric mixer and mix to combine. Add vanilla, powdered sugar, and cinnamon, and mix on low speed until there are no streaks of dry powdered sugar. Cream mixture for one minute on medium-high and chill.
 
