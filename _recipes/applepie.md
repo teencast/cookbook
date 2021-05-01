@@ -3,7 +3,7 @@ title: Bean's Apple Pie
 category: Baking
 description: A homemade apple pie with lots of cinnamony apple filling and a soft crust.
 image: beanapplepie.png
-size: ~8 pop-tarts
+size: Makes 1 pie
 time: 1.5 - 2 hours
 author: bean!#2424
 veggie: ✓
