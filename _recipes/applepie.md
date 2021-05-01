@@ -1,6 +1,6 @@
 ---
 title: Bean's Apple Pie
-category: Baking
+category: Baking Contest
 description: A homemade apple pie with lots of cinnamony apple filling and a soft crust.
 image: beanapplepie.png
 size: Makes 1 pie
