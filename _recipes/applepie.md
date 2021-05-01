@@ -16,11 +16,7 @@ sweet: ✓
 * `1 cup` water
 
 > Mix all ingredients with a large spoon, then when it starts to form, use your hands!!
-Set your dough off to the side, usually in the refrigerator.
-
----
-
-> Divide dough into 2 pieces and wrap with plastic wrap; chill until firm, at least 1 hour.
+Chill dough in fridge for 30 minutes (any more and it gets weird and flakey).
 
 ---
 
