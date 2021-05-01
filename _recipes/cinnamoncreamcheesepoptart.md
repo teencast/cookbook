@@ -1,6 +1,6 @@
 ---
 title: Cinnamon Cream Cheese Pop-Tarts
-category: Dessert
+category: Baking
 description: Delicious recreation of the venerable Pop-Tart, filled with a rich cream cheese filling!
 image: cinnamoncreamcheesepoptart.jpg
 size: ~8 pop-tarts
